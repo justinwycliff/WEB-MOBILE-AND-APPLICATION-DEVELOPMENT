@@ -1,0 +1,7 @@
+/*
+Install Visual Studio Code
+install node.js
+open vscode
+type the js code
+run the code
+*/
